@@ -4,3 +4,12 @@
 2. Which transmission media has the highest transmission speed in a network?
    optical fiber.
   
+3. What is packet switching ?
+   A mode of data transmission in which a message is broken into a number of parts which are sent independently, 
+   over whatever route is optimum for each packet, and reassembled at the destination.
+  
+4. What is the difference between ADSL and cable?
+   1. ADSL uses the phone line to connect to your Telephone exchange that then provides you internet.
+      Cable uses a combination of optical fibre and coaxial cables that run from the street to the premises.
+   2. ADSL needs a username and password to connect.
+      Cable uses the modem's unique MAC address to do the authentication.
